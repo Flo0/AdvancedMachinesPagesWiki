@@ -1,8 +1,6 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Advanced Machines Wiki
+description: Wiki for Advanced Machines usage
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://Flo0.github.com/AdvancedMachinesPagesWiki
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
