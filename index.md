@@ -9,8 +9,7 @@ Work in progress
 
 ---
 
-![](/assets/title/banner.png)
+![](./assets/title/banner.png)
 
-
-[## Machines](Machines)
-[## Configuration](Administration)
+[Machines](/pages/machines_parent){: .btn }
+[Administration](/pages/admin_parent){: .btn }
