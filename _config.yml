@@ -2,5 +2,17 @@ title: Advanced Machines Wiki
 description: Wiki for Advanced Machines usage
 theme: just-the-docs
 
+color_scheme: dark
+
+logo: "/assets/misc/machine_blocks.png"
+favicon_ico: "/assets/misc/machine_blocks_icon.ico"
+search_enabled: true
+
+aux_links:
+  "Spigot plugin page":
+    - "https://www.spigotmc.org/resources/advanced-machines/"
+
+aux_links_new_tab: true
+
 url: https://Flo0.github.com/AdvancedMachinesPagesWiki
 
