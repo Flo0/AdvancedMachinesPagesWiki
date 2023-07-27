@@ -11,5 +11,5 @@ Work in progress
 
 ![](./assets/title/banner.png)
 
-[Machines](/pages/machines_parent){: .btn }
-[Administration](/pages/admin_parent){: .btn }
+- [User Info](User Info)
+- [Administration](Administration)
