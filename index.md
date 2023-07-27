@@ -9,7 +9,7 @@ Work in progress
 
 ---
 
-![](/assets/title/banner.png)
+![](./assets/title/banner.png)
 
 - [User Info](pages/user_info_parent)
 - [Administration](pages/admin_parent)
